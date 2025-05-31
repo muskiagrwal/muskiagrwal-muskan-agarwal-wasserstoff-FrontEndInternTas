@@ -119,7 +119,7 @@ const AboutDialog = forwardRef<AboutDialogRef, AboutDialogProps>(
 
             <div className="text-foreground space-y-2">
               <p className="text-center">
-                Made with 💕 by <span className="font-medium">dulapahv</span>
+                Made with 💕 by <span className="font-medium">Muskan Agarwal</span>
               </p>
               <nav
                 className="grid grid-cols-4 gap-2"

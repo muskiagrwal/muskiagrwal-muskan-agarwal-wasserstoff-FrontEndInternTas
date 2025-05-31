@@ -1,12 +1,4 @@
-/**
- * CORS configuration for server request handling.
- * Features:
- * - Origin validation
- * - Vercel deployment detection
- * - Header generation
- *
- * By Dulapah Vibulsanti (https://dulapahv.dev)
- */
+
 
 const ALLOWED_ORIGINS = [
   'https://codex.dulapahv.dev',

@@ -1,12 +1,4 @@
-/**
- * Root layout component for invited room pages.
- * Provides custom metadata for room sharing previews when users share room links.
- * Features:
- * - Custom metadata description for room sharing
- * - Pass-through children rendering
- *
- * By Dulapah Vibulsanti (https://dulapahv.dev)
- */
+
 
 import type { ReactNode } from 'react';
 import type { Metadata } from 'next';
