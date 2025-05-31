@@ -1,13 +1,4 @@
-/**
- * Socket.IO server entry point for CodeX.
- * Features:
- * - WebSocket server setup
- * - Service initialization
- * - Message handling
- * - CORS configuration
- *
- * By Dulapah Vibulsanti (https://dulapahv.dev)
- */
+
 
 import type { SignalData } from 'simple-peer';
 import { Server } from 'socket.io';
